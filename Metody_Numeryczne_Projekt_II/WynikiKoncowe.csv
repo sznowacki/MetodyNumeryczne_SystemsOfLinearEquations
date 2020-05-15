@@ -1,0 +1,35 @@
+Type , Size , Iterations , Time 
+Jacobi,100,27,0.001
+Jacobi,500,28,0.069
+Jacobi,1000,29,0.45
+Jacobi,2000,29,2.226
+Jacobi,3000,29,5.017
+Jacobi,4000,30,9.452
+Jacobi,5000,30,14.819
+Jacobi,6000,30,21.416
+Jacobi,7000,30,29.613
+Jacobi,8000,30,38.665
+Jacobi,9000,30,49.726
+Jacobi,10000,30,62.625
+Gauss,100,23,0.002
+Gauss,500,23,0.052
+Gauss,1000,23,0.332
+Gauss,2000,24,1.74
+Gauss,3000,24,4.096
+Gauss,4000,24,7.531
+Gauss,5000,24,11.864
+Gauss,6000,24,17.118
+Gauss,7000,24,23.466
+Gauss,8000,24,31.817
+Gauss,9000,24,40.47
+Gauss,10000,24,51.001
+Type , Size , Iterations , Time 
+Jacobi,100,x,0.001
+Jacobi,500,x,0.098
+Jacobi,1000,x,0.951
+Jacobi,2000,x,6.534
+Jacobi,3000,x,22.77
+Type , Size , Iterations , Time 
+LU,100,x,0.001
+LU,500,x,0.099
+LU,1000,x,0.817
